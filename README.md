@@ -1,2 +1,2 @@
 # arboles
-Pagina web relaciona con losa rboles sus tipos y especificaciones
+Pagina web relacionada con los arboles sus tipos y especificaciones
